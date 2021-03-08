@@ -1,0 +1,69 @@
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ 
+  .html{
+    background-color: lightblue;
+    font-size: 40px;
+    font-family: initial;
+    width: 75%;
+    border-radius: 50px;
+    height: 20%;
+  }
+
+  .css{
+    font-family: fantasy;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .bold{
+    font-weight: bold;
+    font-size: 25px;
+    white-space: pre-line;
+  }
+
+  .copy_right_footer{
+    background-color: grey;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    height: 25px;
+    box-shadow: 3px, 3px, 3px grey;
+  }
+
+  .title{
+    box-shadow: 3px, 3px, 3px grey;
+  }
+
+  .roundy{
+    border-radius: 10px;
+    width: 25%;
+    
+  }
+
+  .model{
+    background-color: white;
+  }
